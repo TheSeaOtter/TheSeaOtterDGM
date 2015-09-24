@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\If Statements\IfStatements.cs" />
+     <Compile Include="Assets\Loops\loops.cs" />
      <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
      <Compile Include="Assets\example.cs" />
      <Compile Include="Assets\healthTest.cs" />
