@@ -47,7 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\If Statements\IfStatements.cs" />
-     <Compile Include="Assets\Loops\loops.cs" />
+     <Compile Include="Assets\Loops\DoWhileLoop.cs" />
+     <Compile Include="Assets\Loops\ForLoop.cs" />
+     <Compile Include="Assets\Loops\ForeachLoop.cs" />
+     <Compile Include="Assets\Loops\WhileLoop.cs" />
      <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
      <Compile Include="Assets\example.cs" />
      <Compile Include="Assets\healthTest.cs" />
