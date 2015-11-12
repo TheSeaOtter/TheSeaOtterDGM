@@ -46,14 +46,18 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\If Statements\IfStatements.cs" />
-     <Compile Include="Assets\Loops\DoWhileLoop.cs" />
-     <Compile Include="Assets\Loops\ForLoop.cs" />
-     <Compile Include="Assets\Loops\ForeachLoop.cs" />
-     <Compile Include="Assets\Loops\WhileLoop.cs" />
-     <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
-     <Compile Include="Assets\example.cs" />
-     <Compile Include="Assets\healthTest.cs" />
+     <Compile Include="Assets\Assignments\First Two\conventionsandsyntaxpassoff.cs" />
+     <Compile Include="Assets\Assignments\First Two\example.cs" />
+     <Compile Include="Assets\Assignments\First Two\healthTest.cs" />
+     <Compile Include="Assets\Assignments\If Statements\IfStatements.cs" />
+     <Compile Include="Assets\Assignments\Loops\DoWhileLoop.cs" />
+     <Compile Include="Assets\Assignments\Loops\ForLoop.cs" />
+     <Compile Include="Assets\Assignments\Loops\ForeachLoop.cs" />
+     <Compile Include="Assets\Assignments\Loops\WhileLoop.cs" />
+     <Compile Include="Assets\Assignments\Scope\AnotherClass.cs" />
+     <Compile Include="Assets\Assignments\Scope\ScopesAndAcessModifiers.cs" />
+     <Compile Include="Assets\Duck Hunt\Movement.cs" />
+     <Compile Include="Assets\Duck Hunt\Shooting.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
